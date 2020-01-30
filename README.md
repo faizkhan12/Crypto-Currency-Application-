@@ -3,3 +3,5 @@ The flutter application developed to keep track of the real time cryptocurrencie
 
 ## RESULT
 ![Alt text](Screenshot_20200129-115718.jpg?raw=true "Front view" )
+
+I fetched API from "https://api.coinmarketcap.com/v1/ticker/?limit=50"
